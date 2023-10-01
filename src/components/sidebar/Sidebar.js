@@ -53,31 +53,31 @@ export default function Sidebar() {
         <div className="friends">
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Ryan Snyder</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Walter White</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Violet Mack</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Louise McGee</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Jane Foster</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Joseph Strickland</span>
           </div>
           <div className="friend">
             <img src={pikachu} alt="friend" />
-            <span className="friendName">Joe Doe</span>
+            <span className="friendName">Ray Patterson</span>
           </div>
         </div>
       </div>

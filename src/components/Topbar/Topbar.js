@@ -3,7 +3,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { BsFillPersonFill } from "react-icons/bs";
 import { AiFillWechat } from "react-icons/ai";
 import { IoMdNotifications } from "react-icons/io";
-import Pikachu from "../../resources/images/pikachu.png";
+import profile1 from "../../resources/images/profile1.png";
 
 export default function Topbar() {
   return (
@@ -40,7 +40,7 @@ export default function Topbar() {
               <span className="topBarIconBadge">1</span>
             </div>
           </div>
-          <img src={Pikachu} alt="" className="topBarProfile" />
+          <img src={profile1} alt="" className="topBarProfile" />
         </div>
       </div>
     </div>
