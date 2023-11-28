@@ -6,3 +6,6 @@
 .feeds{
     flex: 5.5;
 }
+.feeds p{
+    padding:0 30px;
+}
