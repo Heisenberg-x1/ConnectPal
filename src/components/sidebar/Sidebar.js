@@ -79,6 +79,18 @@ export default function Sidebar() {
             <img src={pikachu} alt="friend" />
             <span className="friendName">Ray Patterson</span>
           </div>
+          <div className="friend">
+            <img src={pikachu} alt="friend" />
+            <span className="friendName">Ray Patterson</span>
+          </div>
+          <div className="friend">
+            <img src={pikachu} alt="friend" />
+            <span className="friendName">Ray Patterson</span>
+          </div>
+          <div className="friend">
+            <img src={pikachu} alt="friend" />
+            <span className="friendName">Ray Patterson</span>
+          </div>
         </div>
       </div>
     </div>
